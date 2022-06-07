@@ -25,6 +25,7 @@ totalfloresporalumno = ((floresporalumno * dias) * totalalumnos)
 console.log(totalfloresporalumno)
 
 
-//
+//Define las siguientes variables, usando operaciones aritmeticas:
+
 
 
